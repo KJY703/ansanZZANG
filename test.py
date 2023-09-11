@@ -1,4 +1,4 @@
-my__set = {1, 2, 3, 4, 5}
+"""my__set = {1, 2, 3, 4, 5}
 setItem = {5, 3, 1}
 print (my__set)
 print (setItem)
@@ -56,9 +56,15 @@ my_str = str(my_int)
 
 print(my_str)
 
-print(my_str + 10)
-
-print(my_str + " hello")
+print(my_str + " hello")"""
 
 my_str = '10'
 my_int = int(my_str)
+
+print(my_str)
+print(my_int)
+
+print(my_int + 10)
+
+my_int2 = int("ten")
+print(my_int2)
