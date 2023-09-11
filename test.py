@@ -56,7 +56,7 @@ my_str = str(my_int)
 
 print(my_str)
 
-print(my_str + " hello")"""
+print(my_str + " hello")
 
 my_str = '10'
 my_int = int(my_str)
@@ -68,3 +68,93 @@ print(my_int + 10)
 
 my_int2 = int("ten")
 print(my_int2)
+
+a = 10
+b = 3
+
+# c = a + b
+# c = a - b
+# c = a / b
+# c = a * b
+# c = a % b
+# c = a // b
+c = a ** b
+
+print (c)
+
+
+a = 0
+print (a)
+
+a += 2
+print (a)
+
+a -= 1
+print (a)
+
+a *= 4
+print (a)
+
+a /= 2
+print (a)
+
+a **= 3
+print (a)
+
+
+a = 10
+b = 4
+
+# c = a > b
+# c = a < b
+# c = a >= b
+# c = a <= b
+# c = a == b
+c = (a != b)
+
+print (c)
+
+
+a = 1
+b = 0
+
+print (a and b)
+print (a or b)
+print (not b)
+
+
+x = True
+y = False
+
+print (x and y)
+print (x or y)
+print (not x)
+print (not y)
+
+
+
+a = 10
+b = 3
+
+# c = a & b
+# c = a | b
+# c = a ^ b
+# c = ~a
+c = a << 2
+
+print (c)
+
+c = a >> 2
+print (c)"""
+
+
+
+my_list = [9, 4, 3, 7, 8, "hi"]
+print(4 in my_list)
+
+print(2 in my_list)
+print (2 not in my_list)
+
+my_dic = {"key1" : "v1", "k2" : "v2"}
+print("k2" in my_dic)
+print("k" in my_dic)
