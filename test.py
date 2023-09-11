@@ -66,8 +66,6 @@ print(my_int)
 
 print(my_int + 10)
 
-my_int2 = int("ten")
-print(my_int2)
 
 a = 10
 b = 3
