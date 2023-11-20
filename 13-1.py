@@ -112,3 +112,4 @@ print(df)
 print(df.pivot(index='Brand',columns='Machine',values='Price'))
 #print(df.pivot(index='Country',columns='Machine',values='Price'))
 #print(df.pivot(index='Price',columns='Brand',values='Machine'))
+
